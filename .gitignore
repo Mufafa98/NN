@@ -161,3 +161,8 @@ cython_debug/
 #.idea/
 
 .DS_Store
+
+
+best_model_*
+fii-nn-2025-homework*
+submission.csv
